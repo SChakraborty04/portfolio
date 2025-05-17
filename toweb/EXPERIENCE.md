@@ -9,7 +9,7 @@
 - **Technologies Used:** HTML, CSS, JavaScript, Reactjs, Nodejs, ReactNative, Expo, Python
 ---
 ### <img src="https://raw.githubusercontent.com/SChakraborty04/portfolio/refs/heads/main/public/imc.jpg" alt="IMC Logo" width="30"/> IMC University of Applied Sciences Krems - Research Intern  
-**Location:** Kreams, Austria  
+**Location:** Remote, Kreams, Austria  
 **Duration:** January 2025 - Present
 
 - Working on generative ML solutions like Transformers and RNN.
