@@ -1,6 +1,6 @@
 ## 💼 Experience
 
-### <img src="https://raw.githubusercontent.com/SChakraborty04/portfolio/refs/heads/main/public/pt.jpeg" alt="Purpuligo Logo" width="30"/> DPurpuligo  Technologies — SDE Intern  
+### <img src="https://raw.githubusercontent.com/SChakraborty04/portfolio/refs/heads/main/public/pt.jpeg" alt="Purpuligo Logo" width="30"/> Purpuligo  Technologies — SDE Intern  
 **Location:** Remote  
 **Duration:** April 2025 – Present
 
